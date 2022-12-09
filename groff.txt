@@ -1,0 +1,18 @@
+.TL
+The biography of Palmer Luckey 
+
+
+.PP
+Lucky was born and raised in Long Beach, California with three younger sisters. His father worked at a car dealership. He is also a well-known gamer and a big fan of virtual reality, which inspired him to create Oculus.
+
+As a child, his mother homeschooled him, took sailing lessons and had a keen interest in electronics and engineering. He was 14 or 15 years old he took free classes at Golden West College and Long Beach City College and in 2010 he took classes at California State University Long Beach began being an online editor for the university's student newspaper, the Daily 49er.
+
+During his childhood and teenage years, Lucky experimented with a variety of complex electronic projects, including railguns, Tesla coils and lasers, some of which resulted in serious injuries. He built his "rig" for gaming PCs worth tens of thousands of dollars with the elaborate installation of six monitors. His desire to immerse himself in computer-generated worlds led to his obsession with virtual reality (VR).
+
+In 2009 he founded the ModRetro forum with a friend to create an online community for "
+.B portability
+". It is a hobby that revolves around converting old hardware of his devices, such as his game consoles and computer, into a standalone portable unit by combining old and new technologies.
+
+Lucky then attended California State University, Long Beach, where he studied journalism and served as editor of the Daily49er Online. During this time, he worked as a part-time engineer in the Mixed Reality Lab (MxR) at the University of Southern California's Creative Technology Institute (ICT) as part of the design team for BRAVEMIND's low-cost virtual reality system. A U.S. Army laboratory for treating veterans suffering from 
+.B PTSD.
+                                                           
